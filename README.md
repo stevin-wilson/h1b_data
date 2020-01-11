@@ -1,6 +1,8 @@
 # h1b_data
 visualizing H1B data from USCIS
 
+Blog post is at https://www.linkedin.com/pulse/should-i-go-biotechnology-stevin-wilson/
+
 
 ## Data was obtained from https://www.uscis.gov/tools/reports-studies/h-1b-employer-data-hub-files
 
